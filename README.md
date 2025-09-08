@@ -1,6 +1,7 @@
 # 📊 Tableau de bord avec Google Lokker Studio
 
 🎯 Objectif
+
 Ce projet démontre la création d’un  dashboard interactif et analytique avec Google Looker Studio , intégrant des visualisations avancées, des KPIs et des filtres interactifs pour l’analyse des ventes et de la fidélité client.
 
 📂 Dataset utilisé
