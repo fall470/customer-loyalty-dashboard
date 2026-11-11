@@ -30,7 +30,7 @@
 📷 [Ajouter ici une capture d'écran : `![Dashboard](images/dashboard.png)`]
 
 📄 Version complète : [`Advanced_Dashboard.pdf`](Advanced_Dashboard.pdf)
-🔗 Dashboard en ligne : [lien Looker Studio à ajouter, si le partage est public]
+
 
 ## Méthode
 
