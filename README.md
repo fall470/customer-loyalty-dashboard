@@ -101,6 +101,4 @@ Des filtres dynamiques permettent de croiser les dimensions (produit, lieu, ann�
 - La marge est calculée **par unité** (prix de vente − coût). Piste : ajouter un **taux de marge (%)** et une marge pondérée par les quantités vendues.
 - Piste suivante : ajouter une analyse de l'évolution dans le temps (tendances, saisonnalité) et une segmentation plus fine des clients fidèles.
 
-## Auteur
 
-**Adama Fall** · [LinkedIn / email à ajouter]
